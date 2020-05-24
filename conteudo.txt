@@ -1,0 +1,19 @@
+App #4 - Lista de Tarefas
+
+ListView
+
+SnackBar
+
+Dismissible
+
+ListTile
+
+CircleAvatar
+
+CheckBoxListTile
+
+RefreshIndicator
+
+Sort
+
+Armazenamento JSON
